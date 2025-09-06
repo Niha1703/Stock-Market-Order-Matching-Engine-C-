@@ -1,0 +1,24 @@
+=== Stock Market Order Matching Engine ===
+1. Place BUY Order
+2. Place SELL Order
+3. Show Trades
+4. Exit
+
+Enter choice: 1
+Enter price: 50
+Enter quantity: 100
+Order placed successfully!
+
+Enter choice: 1
+Enter price: 45
+Enter quantity: 200
+Order placed successfully!
+
+Enter choice: 2
+Enter price: 48
+Enter quantity: 150
+Order placed successfully!
+
+Enter choice: 3
+TRADE: BuyID=1, SellID=3, Price=48, Qty=100
+TRADE: BuyID=2, SellID=3, Price=48, Qty=50
